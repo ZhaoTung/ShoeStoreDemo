@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShoeStoreApp</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="welcome_second">We hope you enjoy our services!</string>
+    <string name="textview">To add shoe to store, We need some information about it like, name of Item , Price , Description ,and Name Of The company.</string>
+    <string name="next">Next</string>
+</resources>
